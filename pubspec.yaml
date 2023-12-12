@@ -1,6 +1,6 @@
 name: sorter
-description: A sorter which will sort all type of data to save your time
-version: 0.0.1
+description: A sorter which will sort all type of data to save your time, or Comprehensive Dart sorting algorithms library.
+version: 0.0.2
 homepage: https://github.com/AbdallahAlsaifi/sorter
 
 environment:
@@ -13,7 +13,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
-
+  cloud_firestore:
 dev_dependencies:
   flutter_test:
     sdk: flutter
